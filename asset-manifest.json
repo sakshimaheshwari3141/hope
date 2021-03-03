@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sakshimaheshwari3141/hope/static/css/main.56a09c73.chunk.css",
+    "main.js": "/sakshimaheshwari3141/hope/static/js/main.5106fd85.chunk.js",
+    "main.js.map": "/sakshimaheshwari3141/hope/static/js/main.5106fd85.chunk.js.map",
+    "runtime-main.js": "/sakshimaheshwari3141/hope/static/js/runtime-main.edbb1f1a.js",
+    "runtime-main.js.map": "/sakshimaheshwari3141/hope/static/js/runtime-main.edbb1f1a.js.map",
+    "static/css/2.729b2744.chunk.css": "/sakshimaheshwari3141/hope/static/css/2.729b2744.chunk.css",
+    "static/js/2.9227d876.chunk.js": "/sakshimaheshwari3141/hope/static/js/2.9227d876.chunk.js",
+    "static/js/2.9227d876.chunk.js.map": "/sakshimaheshwari3141/hope/static/js/2.9227d876.chunk.js.map",
+    "static/js/3.bc9aeb47.chunk.js": "/sakshimaheshwari3141/hope/static/js/3.bc9aeb47.chunk.js",
+    "static/js/3.bc9aeb47.chunk.js.map": "/sakshimaheshwari3141/hope/static/js/3.bc9aeb47.chunk.js.map",
+    "index.html": "/sakshimaheshwari3141/hope/index.html",
+    "static/css/2.729b2744.chunk.css.map": "/sakshimaheshwari3141/hope/static/css/2.729b2744.chunk.css.map",
+    "static/css/main.56a09c73.chunk.css.map": "/sakshimaheshwari3141/hope/static/css/main.56a09c73.chunk.css.map",
+    "static/js/2.9227d876.chunk.js.LICENSE.txt": "/sakshimaheshwari3141/hope/static/js/2.9227d876.chunk.js.LICENSE.txt",
+    "static/media/C2.ef2d9e78.jpg": "/sakshimaheshwari3141/hope/static/media/C2.ef2d9e78.jpg",
+    "static/media/logo.6ce24c58.svg": "/sakshimaheshwari3141/hope/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edbb1f1a.js",
+    "static/css/2.729b2744.chunk.css",
+    "static/js/2.9227d876.chunk.js",
+    "static/css/main.56a09c73.chunk.css",
+    "static/js/main.5106fd85.chunk.js"
+  ]
+}
